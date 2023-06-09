@@ -9,17 +9,12 @@
 - 2023.05.03.수 - 2023.
 
 ## **OT 프로젝트의 구성원**
-
-> 스크럼 마스터: 조윤호
->
-> FE: 이주형
->
-> FE: 유하리
->
-> FE: 장재우
->
-> FE: 김수민
->
-> BE: 이정민
->
-> BE: 정현구
+| [<img src="https://avatars.githubusercontent.com/dydgh142" width="200">](https://github.com/dydgh142) | [<img src="https://avatars.githubusercontent.com/leejh4197" width="200">](https://github.com/leejh4197) | [<img src="https://avatars.githubusercontent.com/YUhari0901" width="200">](https://github.com/YUhari0901) | [<img src="https://avatars.githubusercontent.com/oweaj" width="200">](https://github.com/oweaj) | [<img src="https://avatars.githubusercontent.com/sumin-Kim-00" width="200">](https://github.com/sumin-Kim-00) |
+|:------------:|:------------------:|:--------------------:|:--------------------:|:-----------------:|
+|   [조윤호](https://github.com/dydgh142) | [이주형](https://github.com/leejh4197) | [유하리](https://github.com/YUhari0901) | [장재우](https://github.com/oweaj)| [김수민](https://github.com/sumin-Kim-00) |
+| FrontEnd Developer |  FrontEnd Developer  |  FrontEnd Developer  |  FrontEnd Developer  |  FrontEnd Developer  |
+##
+| [<img src="https://avatars.githubusercontent.com/Min9807" width="200">](https://github.com/Min9807) | [<img src="https://avatars.githubusercontent.com/yongdori00" width="200">](https://github.com/yongdori00) |
+|:------------:|:------------------:|
+|   [이정민](https://github.com/Min9807) | [정현구](https://github.com/yongdori00) |
+| BackEnd Developer |  BackEnd Developer  |
