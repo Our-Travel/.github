@@ -6,7 +6,7 @@
 
 ## ⌛개발 기간
 
-- 2023.05.03.수 - 2023.
+- 2023.05.03.수 - 2023.10.16.월
 
 ## **OT 프로젝트의 구성원**
 | [<img src="https://avatars.githubusercontent.com/dydgh142" width="200">](https://github.com/dydgh142) | [<img src="https://avatars.githubusercontent.com/leejh4197" width="200">](https://github.com/leejh4197) | [<img src="https://avatars.githubusercontent.com/oweaj" width="200">](https://github.com/oweaj) | [<img src="https://avatars.githubusercontent.com/sumin-Kim-00" width="200">](https://github.com/sumin-Kim-00) |
