@@ -17,4 +17,4 @@
 | [<img src="https://avatars.githubusercontent.com/Min9807" width="200">](https://github.com/Min9807) | [<img src="https://avatars.githubusercontent.com/yongdori00" width="200">](https://github.com/yongdori00) |
 |:------------:|:------------------:|
 |   [이정민](https://github.com/Min9807) | [정현구](https://github.com/yongdori00) |
-| BackEnd Developer |  BackEnd Developer  |
+| BackEnd Developer |  DevOps Engineer  |
